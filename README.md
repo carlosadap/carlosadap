@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosadap
-- 👀 I’m interested in Web Development and Cheminformatics.
-- 🌱 I’m currently learning JavaScript, Python and I'm doing the [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
-- 💞️ I’m looking to collaborate on Cheminformatics & Drug Discovery 
+- 👀 I’m interested in Web Development and Data Science.
+- 🌱 I’m currently learning Python and I'm doing the [![IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science#credits)
+- 💞️ I’m looking to collaborate on Chemistry & Data Science
 - 📫 You can reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlosalbuquerquepinheiro/)
 &nbsp;
 
