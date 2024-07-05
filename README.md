@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carlosadap
 - 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently doing the learning Python and I'm doing the [App Academy Open](https://www.appacademy.io/course/app-academy-open)
+- 🌱 I’m currently learning [Computer Science at the Open Source Society University](https://github.com/ossu/computer-science)
 - 💞️ I’m looking to collaborate on Chemistry & Data Science
-- 📫 You can reach me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlosalbuquerquepinheiro/)
+- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalbuquerquepinheiro/)
 &nbsp;
 
 <!---
