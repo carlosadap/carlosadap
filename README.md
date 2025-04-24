@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosadap
-- 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning [Computer Science at the Open Source Society University](https://github.com/ossu/computer-science)
-- 💞️ I’m looking to collaborate on Chemistry & Data Science
+- 👀 I’m interested in Web Development, Data Science and Laboratory Automation
+- 🌱 I’m currently learning Vibe Coding
+- 💞️ I’m looking to collaborate on Chemistry, Data Science or anything in between
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalbuquerquepinheiro/)
 &nbsp;
 
